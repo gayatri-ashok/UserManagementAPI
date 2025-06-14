@@ -1,0 +1,9 @@
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\UserManagementAPI.exe
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\appsettings.json
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\UserManagementAPI.dll
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\UserManagementAPI.deps.json
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\UserManagementAPI.runtimeconfig.json
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\UserManagementAPI.pdb
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bhatt\source\repos\BUDICoursera\UserManagementAPI\obj\Debug\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
